@@ -105,11 +105,11 @@ h4 {
 }
 #nav a {
 	background-color: transparent;
-	border-left: 50px solid #ffcc00;
+	border-left: 50px solid rgba(0,128,0, 0.8);
 	font-size: 110%;
 }
 #nav a:hover, #nav a.active {
-	border-left: 100px solid #ffcc00;
+	border-left: 100px solid rgba(0,128,0, 0.8);
 	color: #333;
 }
 .next {
@@ -189,7 +189,7 @@ h4 {
 	right: 0;
 	bottom: 0px;
 
-	background: rgba(255,204,0,1);
+	background: rgba(0,128,0, 0.8);
 	color: #000;
 	text-align: right;
 
